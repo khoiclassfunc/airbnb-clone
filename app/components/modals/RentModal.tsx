@@ -248,7 +248,7 @@ const RentModal = (props: Props) => {
           title="Now, set your price"
           subtitle="How much do you charge per night?"
         />
-        price
+        price adfasdf
         <Input
           id="price"
           label="Price"
